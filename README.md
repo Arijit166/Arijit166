@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arijit Sarkar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arijit166&label=Profile%20views&color=0e75b6&style=flat" alt="Arijit166" /> </p>
 <img align="center" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arijit166" alt="Arijit166" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Arijit166&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - 🌱 I’m currently learning *Python, JS*
 
 - 💬 Ask me about *Html, Css, SQL*
@@ -22,9 +21,8 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Arijit166&show_icons=true&count_private=true&theme=radical)
 [![Arijit166's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arijit166&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Arijit166&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<img src="https://media.giphy.com/media/3o85xwxr06YNoFdSbm/giphy.gif" width="300">
-![Visitor Count](https://komarev.com/ghpvc/?username=Arijit166)
+
+<p align="center"> <img src="https://media.giphy.com/media/3o85xwxr06YNoFdSbm/giphy.gif" width="300"> </p>
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10 px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
