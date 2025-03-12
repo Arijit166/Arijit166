@@ -21,7 +21,7 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Arijit166&show_icons=true&count_private=true&theme=radical)
-[!Ashutosh's's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Arijit166&bg_color=ffffff&color=000000&line=00E676&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10 px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
