@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arijit166&label=Profile%20views&color=0e75b6&style=flat" alt="Arijit166" /> </p>
 <h1 align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%91%8B+Hey developers!;I'm+Arijit+Sarkar";Tech+enthusiast; alt="Typing SVG" /></h1>
- <br>
+ 
  <p align="center"><img alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp"></p>
  <br>
 <p>
