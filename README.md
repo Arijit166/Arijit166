@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arijit Sarkar</h1>
+<h1 align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%91%8B+Hey developers!;I'm+Arijit+Sarkar";Tech+enthusiast; alt="Typing SVG" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arijit166&label=Profile%20views&color=0e75b6&style=flat" alt="Arijit166" /> </p>
 <img align="center" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 - 🌱 I’m currently learning *Python, JS*
