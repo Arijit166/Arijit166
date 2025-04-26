@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arijit166&label=Profile%20views&color=0e75b6&style=flat" alt="Arijit166" /> </p>
 <h1 align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%91%8B+Hey developers!;I'm+Arijit+Sarkar";Tech+enthusiast; alt="Typing SVG" /></h1>
+<img src="https://camo.githubusercontent.com/5db55d473a07b396b3e6f0c220e7e9fbd4e1a880f742ebaa9d58682947555da9/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f6465267765696768743d3630302673697a653d3330266475726174696f6e3d333030302670617573653d3130303026636f6c6f723d3030464630302663656e7465723d74727565267643656e7465723d747275652677696474683d353030266865696768743d3530266c696e65733d2546302539462539312538422b4865792b646576656c6f70657273213b49276d2b42696b72616d2b4d6f6e64616c" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=30&amp;duration=3000&amp;pause=1000&amp;color=00FF00&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=50&amp;lines=%F0%9F%91%8B+Hey+developers!;I'm+Arijit+Sarkar" style="max-width: 100%;">
  
  <p align="center"><img alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp"></p>
  <br>
