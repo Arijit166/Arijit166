@@ -23,7 +23,8 @@
      <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://www.vhv.rs/dpng/d/543-5438423_mysql-logo-hd-png-download.png" alt="mysql" width="40" height="40"/> </a> 
      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
      
- [![trophy](https://github-profile-trophy.vercel.app/?username=Arijit166&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)     
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Arijit166&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arijit166&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="Arijit166" /></p>
  ![Github Stats](https://github-readme-stats.vercel.app/api?username=Arijit166&show_icons=true&count_private=true&theme=radical)
  [![Arijit166's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arijit166&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
  <p align="center"> <img src="https://media.giphy.com/media/3o85xwxr06YNoFdSbm/giphy.gif" width="300"> </p>
