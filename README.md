@@ -37,8 +37,8 @@
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.w3.org" target="_blank"><img src="https://tse3.mm.bing.net/th?id=OIP.t8LlCJIKEWi5TeqGdfoxHQHaJ3&pid=Api&P=0&h=180" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com" target="_blank"><img src="https://tse1.mm.bing.net/th?id=OIP.GdUWbrVtbNezIRl6jg_ymAHaEh&pid=Api&P=0&h=180" width="40" height="40"/></a>
+  <a href="https://www.w3.org" target="_blank"><img src="https://tse3.mm.bing.net/th?id=OIP.t8LlCJIKEWi5TeqGdfoxHQHaJ3&pid=Api&P=0&h=180" width="40" height="42"/></a>
+  <a href="https://tailwindcss.com" target="_blank"><img src="https://tse1.mm.bing.net/th?id=OIP.GdUWbrVtbNezIRl6jg_ymAHaEh&pid=Api&P=0&h=180" width="40" height="38"/></a>
   <a href="https://www.javascript.com" target="_blank"><img src="https://tse4.mm.bing.net/th?id=OIP.Oag0dh4MINdG_qxOzJMoiwHaIB&pid=Api&P=0&h=180" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com" target="_blank"><img src="https://up.yimg.com/ib/th?id=OIP.-wK8kSbegCP7kdE8hVjRCQHaHk&pid=Api&rs=1&c=1&qlt=95&w=121&h=124" width="40" height="40"/></a>
   <a href="https://www.mysql.com" target="_blank"><img src="https://www.vhv.rs/dpng/d/543-5438423_mysql-logo-hd-png-download.png" width="40" height="40"/></a>
