@@ -14,8 +14,8 @@
 
 ### 🌱 About Me
 
-- 🌱 I’m currently learning *Python, JS*
-- 💬 Ask me about *HTML, CSS, SQL*
+- 🌱 I’m currently learning *Mern*
+- 💬 Ask me about *Fullstack Development*
 - 📫 Reach me at: *arijit.sarkar7156@gmail.com*
 
 ---
@@ -33,14 +33,21 @@
 
 ---
 
-### 💻 Languages and Tools:
+### 💻 My Tech Stack and Tools:
 
 <p align="left">
-  <a href="https://www.javascript.com" target="_blank"><img src="https://tse2.mm.bing.net/th?id=OIP.Yu-lWTSqj_5HVAtOO5WnLQHaEK&pid=Api&P=0&h=180" width="50" height="40"/></a>
-  <a href="https://www.w3.org" target="_blank"><img src="https://tse3.mm.bing.net/th?id=OIP.t8LlCJIKEWi5TeqGdfoxHQHaJ3&pid=Api&P=0&h=180" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.w3.org" target="_blank"><img src="https://tse3.mm.bing.net/th?id=OIP.t8LlCJIKEWi5TeqGdfoxHQHaJ3&pid=Api&P=0&h=180" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com" target="_blank"><img src="https://tse1.mm.bing.net/th?id=OIP.GdUWbrVtbNezIRl6jg_ymAHaEh&pid=Api&P=0&h=180" width="40" height="40"/></a>
+  <a href="https://www.javascript.com" target="_blank"><img src="https://tse4.mm.bing.net/th?id=OIP.Oag0dh4MINdG_qxOzJMoiwHaIB&pid=Api&P=0&h=180" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com" target="_blank"><img src="https://up.yimg.com/ib/th?id=OIP.-wK8kSbegCP7kdE8hVjRCQHaHk&pid=Api&rs=1&c=1&qlt=95&w=121&h=124" width="40" height="40"/></a>
   <a href="https://www.mysql.com" target="_blank"><img src="https://www.vhv.rs/dpng/d/543-5438423_mysql-logo-hd-png-download.png" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com" target="_blank"><img src="https://tse1.mm.bing.net/th?id=OIP.ORnlsvc38UKkWSEyDmZjggHaHa&pid=Api&P=0&h=180" width="40" height="38"/></a>
+  <a href="https://github.com" target="_blank"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="40" height="43"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://sp.yimg.com/ib/th?id=OIP.e_X0lPfFAgpZayzDVy8-vwHaHa&pid=Api&w=148&h=148&c=7&dpr=2&rs=1" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://tse1.mm.bing.net/th?id=OIP.zjD1ZJWXWfgymLgx3dqcLAHaEK&pid=Api&P=0&h=180" width="60" height="38"/></a>
+  <a href="https://ejs.co" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/008/942/398/non_2x/ejs-logo-ejs-letter-ejs-letter-logo-design-initials-ejs-logo-linked-with-circle-and-uppercase-monogram-logo-ejs-typography-for-technology-business-and-real-estate-brand-vector.jpg" width="50" height="38"/></a>
 </p>
 
 ---
@@ -71,11 +78,7 @@
 ---
 
 
-
 <p align="center">
   <img src="https://media.giphy.com/media/3o85xwxr06YNoFdSbm/giphy.gif" width="300">
 </p>
-
----
-
 
