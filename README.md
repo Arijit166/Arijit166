@@ -25,6 +25,7 @@
      
  [![trophy](https://github-profile-trophy.vercel.app/?username=Arijit166&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)     
  ![Github Stats](https://github-readme-stats.vercel.app/api?username=Arijit166&show_icons=true&count_private=true&theme=radical)
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arijit166&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="Arijit166" /></p>
  [![Arijit166's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arijit166&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
  <p align="center"> <img src="https://media.giphy.com/media/3o85xwxr06YNoFdSbm/giphy.gif" width="300"> </p>
  <details>	
