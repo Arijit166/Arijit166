@@ -33,25 +33,26 @@
 
 ---
 
-### 💻 My Tech Stack and Tools:
+## 💻 My Tech Stack and Tools
 
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.w3.org" target="_blank"><img src="https://tse3.mm.bing.net/th?id=OIP.t8LlCJIKEWi5TeqGdfoxHQHaJ3&pid=Api&P=0&h=180" width="40" height="42"/></a>
-  <a href="https://tailwindcss.com" target="_blank"><img src="https://tse1.mm.bing.net/th?id=OIP.GdUWbrVtbNezIRl6jg_ymAHaEh&pid=Api&P=0&h=180" width="40" height="38"/></a>
-  <a href="https://www.javascript.com" target="_blank"><img src="https://tse4.mm.bing.net/th?id=OIP.Oag0dh4MINdG_qxOzJMoiwHaIB&pid=Api&P=0&h=180" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com" target="_blank"><img src="https://up.yimg.com/ib/th?id=OIP.-wK8kSbegCP7kdE8hVjRCQHaHk&pid=Api&rs=1&c=1&qlt=95&w=121&h=124" width="40" height="40"/></a>
-  <a href="https://www.mysql.com" target="_blank"><img src="https://www.vhv.rs/dpng/d/543-5438423_mysql-logo-hd-png-download.png" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://code.visualstudio.com" target="_blank"><img src="https://tse1.mm.bing.net/th?id=OIP.ORnlsvc38UKkWSEyDmZjggHaHa&pid=Api&P=0&h=180" width="40" height="35"/></a>
-   <a href="git-scm.com" target="_blank"><img src="https://tse2.mm.bing.net/th/id/OIP.9WZPLb2B4rKSbK52Zg8hnAHaEo?pid=Api&P=0&h=180" width="50" height="38"/></a>
-  <a href="https://github.com" target="_blank"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="40" height="43"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://sp.yimg.com/ib/th?id=OIP.e_X0lPfFAgpZayzDVy8-vwHaHa&pid=Api&w=148&h=148&c=7&dpr=2&rs=1" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://tse1.mm.bing.net/th?id=OIP.zjD1ZJWXWfgymLgx3dqcLAHaEK&pid=Api&P=0&h=180" width="60" height="38"/></a>
-  <a href="https://ejs.co" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/008/942/398/non_2x/ejs-logo-ejs-letter-ejs-letter-logo-design-initials-ejs-logo-linked-with-circle-and-uppercase-monogram-logo-ejs-typography-for-technology-business-and-real-estate-brand-vector.jpg" width="50" height="38"/></a>
-  <a href="www.mongodb.com" target="_blank"><img src="https://tecnoticias.net/wp-content/uploads/2021/02/mongodb-atlas-google-cloud-partnership-nosql-databases-integrations-2.jpg" width="70" height="40"/></a>
-  <a href="mongoosejs.com" target="_blank"><img src="https://up.yimg.com/ib/th/id/OIP.OYpEW3PMltGC2MVvJ-5QTwHaDh?pid=Api&rs=1&c=1&qlt=95&w=190&h=90" width="70" height="55"/></a>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C Programming" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/EJS-232F3E?style=flat&logo=javascript&logoColor=white" alt="EJS" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" alt="Mongoose" />
+</div>
+
 
 ---
 
