@@ -59,7 +59,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arijit166&theme=onedark" alt="Trophies"/>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Arijit166X&theme=onedark&no-frame=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 ---
