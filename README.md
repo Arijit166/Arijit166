@@ -15,7 +15,7 @@
 ### 🕺 When the Code Works and You Know It!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="300" alt="Dancing Pikachu" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDlyYjR4cXBydDl1NGFnYXVvOTBwdmR0cHZkaGFndXJvcjRzNGlubiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/e5q0CVGJab5fmW8mme/200.webp" width="400" height="400 alt="Dancing Pikachu" />
 </p>
 
 ### 🌱 About Me
