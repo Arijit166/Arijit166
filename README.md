@@ -12,6 +12,12 @@
 
 ---
 
+### 🕺 When the Code Works and You Know It!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="300" alt="Dancing Pikachu" />
+</p>
+
 ### 🌱 About Me
 
 - 🌱 I’m currently learning *Mern*
