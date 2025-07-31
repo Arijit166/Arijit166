@@ -20,7 +20,7 @@
 
 ### 🌱 About Me
 
-- 🌱 I’m currently learning *Mern*
+- 🌱 I’m currently learning *Gen AI*
 - 💬 Ask me about *Fullstack Development*
 - 📫 Reach me at: *arijit.sarkar7156@gmail.com*
 
