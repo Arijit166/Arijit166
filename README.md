@@ -1,7 +1,3 @@
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Arijit166&label=Profile%20views&color=0e75b6&style=flat" alt="Arijit166" />
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%91%8B+Hey+developers!;I'm+Arijit+Sarkar" alt="Typing SVG" />
 </h1>
@@ -20,23 +16,14 @@
 
 ### 🌱 About Me
 
-- 🌱 I’m currently learning *Gen AI*
+- 🌱 I’m currently learning *LLM and Blockchain*
 - 💬 Ask me about *Fullstack Development*
-- 📫 Reach me at: *arijit.sarkar7156@gmail.com*
+- 📫 Reach me at:
+  - **Email** - arijit.sarkar7156@gmail.com
+  - **Linkedin** - https://www.linkedin.com/in/arijit-sarkar-57738a354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 
 ---
-
-### 🤝 Connect with me:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/arijit-sarkar-57738a354/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/arijit_sarkar07?igsh=bnQ4MGZ2ajYxb2sz" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Instagram" height="30" width="30"/>
-  </a>
-</p>
-
+### 👉 Check out my portolio - https://ai-portfolio-phi-khaki.vercel.app/
 ---
 
 ## 💻 My Tech Stack and Tools
@@ -47,10 +34,16 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C Programming" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Tkinter-FF8400?style=flat&logo=python&logoColor=white" alt="Tkinter" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
@@ -60,7 +53,8 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" alt="Mongoose" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" alt="Render" />
+  
 </div>
 
 
